@@ -1,2 +1,2 @@
 # FirstRepo
-First repo for github
+First repo for git and github.
